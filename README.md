@@ -27,11 +27,18 @@ Actor (01 to 24. Odd-numbered actors are male, even-numbered actors are female).
 
 Below is a Filename example mentioned below and do refer this as you will extract emotion and perform analysis based upon below examples: 03-01-06-01-02-01-12.wav  
 
-Audio-only (03)
-Speech (01)
-Fearful (06)
-Normal intensity (01)
-Statement "dogs" (02)
-1st Repetition (01)
-12th Actor (12)
+Audio-only (03)  
+
+Speech (01)  
+
+Fearful (06)  
+
+Normal intensity (01)  
+
+Statement "dogs" (02)  
+
+1st Repetition (01)  
+
+12th Actor (12)  
+
 Female, as the actor ID number is even
