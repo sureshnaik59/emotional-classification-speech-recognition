@@ -7,9 +7,9 @@ The objective is to predict the most likely emotion expressed in each audio clip
 # Data Description
 The data contains the various audio files (16bit, 48kHz .wav). The dataset contains 24 professional actors (12 female, 12 male), vocalizing two lexically matched statements in a neutral North American accent. Speech emotions include calm, happy, sad, angry, fearful, surprise, and disgust expressions. Each expression is produced at two levels of emotional intensity (normal, strong), with an additional neutral expression.
 # File naming convention
-Each file has a unique filename. The filename consists of a 7-part numerical identifier (e.g., 03-01-06-01-02-01-12.wav). These identifiers define the stimulus characteristics:
+Each file has a unique filename. The filename consists of a 7-part numerical identifier (e.g., 03-01-06-01-02-01-12.wav). These identifiers define the stimulus characteristics: \ 
 
--- Modality (01 = full-AV, 02 = video-only, 03 = audio-only).
+Modality (01 = full-AV, 02 = video-only, 03 = audio-only). \ 
 Vocal channel (01 = speech, 02 = song).
 Emotion (01 = neutral, 02 = calm, 03 = happy, 04 = sad, 05 = angry, 06 = - fearful, 07 = disgust, 08 = surprised).
 Emotional intensity (01 = normal, 02 = strong). NOTE: There is no strong intensity for the 'neutral' emotion.
